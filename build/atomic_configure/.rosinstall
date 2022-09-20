@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/emol/arduino_ws/devel/setup.sh

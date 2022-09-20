@@ -1,0 +1,2 @@
+ard_test
+-DCATKIN_DEVEL_PREFIX=/home/emol/arduino_ws/devel -DCMAKE_INSTALL_PREFIX=/home/emol/arduino_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/emol/arduino_ws/devel
+
+Name: ard_test
+Description: Description of ard_test
+Version: 0.0.0
+Cflags: -I/home/emol/arduino_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
